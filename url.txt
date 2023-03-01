@@ -1,0 +1,3 @@
+
+
+streamlit run C:/Users/ajay/Desktop/mlwebapp/predictive.py   
